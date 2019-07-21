@@ -37,7 +37,7 @@ app.post('/post', function(req, res) {
 
 // moni shu ju 
 var comments = [{
-        name: 'zhang san',
+        name: 'zhang san1',
         message: 'Today is good!',
         dataTime: '2018.08.06'
     },
